@@ -1,0 +1,17 @@
+{
+    "name": "rodrigodiez/phpspec-datetime-issue",
+    "authors": [
+        {
+            "name": "Rodrigo Diez Villamuera",
+            "email": "rodrigo@rodrigodiez.io"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "^2.4"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {"psr-0": {"ACME": "src"}}
+}
